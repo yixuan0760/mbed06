@@ -47,7 +47,7 @@ void master_thread() {
     }
 
     wait(0.05);
-
+1
   }
 
 }
